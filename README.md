@@ -44,3 +44,4 @@ Produk menggunakan satu sumber data `PRODUCTS` di `src/data.js`. Kategori yang t
 
 ## QA dan keterbatasan
 Build perlu diverifikasi di lingkungan dengan akses registry npm. Dalam lingkungan pembuatan ZIP ini, `npm install` tidak selesai karena akses/unduhan dependensi tidak tersedia, sehingga `npm run build` tidak dapat dijalankan (`vite: not found`). Jangan anggap build atau kamera telah lolos uji browser. Periksa langkah QA pada catatan serah-terima yang menyertai hasil proyek.
+"# senjaadv-solo" 
